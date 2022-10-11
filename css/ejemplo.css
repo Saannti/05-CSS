@@ -1,0 +1,32 @@
+#imagen {
+    background-image: url("/assest/3b62f5bafd6aca2002e6b1a32756e399bb6c4fadr1-340-270v2_uhq.jpg");
+}
+
+#color {
+    background-color: aqua;
+}
+
+#colortexto {
+    color: chartreuse;
+}
+
+#derecha {
+    text-align: left;
+
+
+}
+
+#centro {
+    text-align: center;
+}
+
+#izquierda {
+    text-align: right;
+}
+#border{
+    text-align: center;
+    border-color: tomato;
+    border-style: groove;
+    border-width: 45
+    ;
+}
