@@ -23,10 +23,38 @@
 #izquierda {
     text-align: right;
 }
-#border{
+
+#border {
     text-align: center;
     border-color: tomato;
     border-style: groove;
-    border-width: 45
-    ;
+    border-width: 45;
+}
+
+#table2 {
+    border: 2px solid black;
+    border-collapse: collapse;
+
+}
+
+td {
+    border: 2px solid black;
+}
+
+th {
+    border: 2px solid black;
+}
+
+#display {
+    display: flex;
+    justify-content: center;
+
+    border: 3px solid rebeccapurple
+}
+
+#justyfy {
+    display: flex;
+    justify-content: center;
+
+    border: 3px solid rgb(16, 29, 6)
 }
