@@ -1,0 +1,128 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Oswald:wght@200&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Megrim&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Cormorant+SC&family=Megrim&display=swap');
+
+#imagen {
+    background-image: url("/assest/3b62f5bafd6aca2002e6b1a32756e399bb6c4fadr1-340-270v2_uhq.jpg");
+}
+
+#color {
+    background-color: aqua;
+}
+
+#colortexto {
+    color: chartreuse;
+}
+
+#derecha {
+    text-align: left;
+
+
+}
+
+#centro {
+    text-align: center;
+}
+
+#izquierda {
+    text-align: right;
+}
+
+#border {
+    text-align: center;
+    border-color: tomato;
+    border-style: groove;
+    border-width: 45;
+}
+
+#table2 {
+    border: 2px solid black;
+    border-collapse: collapse;
+
+}
+
+td {
+    border: 2px solid black;
+}
+
+th {
+    border: 2px solid black;
+}
+
+#display {
+    display: flex;
+    justify-content: center;
+
+    border: 3px solid rebeccapurple
+}
+
+#justyfy {
+    display: flex;
+    justify-content: center;
+
+    border: 3px solid rgb(16, 29, 6)
+}
+
+body{
+    background-color: black;
+}
+header{
+ 
+    background-color: rgba(89, 156, 50, 0.842);
+    height: 25px;
+   
+}
+*{
+    margin: 0%;
+    margin-top: 0%;
+}
+header h2{
+    text-align: center;
+    font-weight: 900;
+    font-size: 1em;
+    color: azure;
+    font-family: 'Anton', sans-serif;
+}
+main{
+    margin-left: 15%;
+    margin-right: 15%;
+    padding: 60px;
+}
+.container{
+box-shadow: -2px -4px 21px 4px #00FF19;;
+padding: 15px;
+
+}
+.container img{
+
+width: 100%;
+
+
+}
+
+p{
+    color: azure;
+    font-family: 'Cormorant SC', serif;
+}
+
+h1{
+    color: rgb(43, 245, 70);
+    font-size: 1,5em;
+}
+h3{
+    color: rgba(255, 255, 255, 0.671);
+    text-align: center;
+    font-family: 'Megrim', cursive;
+}
+strong{
+    color: azure;
+}
+br{
+    color: azure;
+}
+h2{
+    color: azure;
+}
