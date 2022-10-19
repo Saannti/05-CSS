@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Anton&family=Oswald:wght@200&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Amita&family=Anton&family=Cormorant+SC&family=Crimson+Text:ital@1&family=Megrim&display=swap');
 
 @import url('https://fonts.googleapis.com/css2?family=Anton&family=Megrim&display=swap');
 
@@ -88,7 +88,7 @@ header h2 {
     font-weight: 900;
     font-size: 1em;
     color: azure;
-    font-family: 'Anton', sans-serif;
+    font-family: 'Amita', cursive;
 }
 
 main {
