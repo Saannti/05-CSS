@@ -1,9 +1,10 @@
-
 @import url('https://fonts.googleapis.com/css2?family=Anton&family=Oswald:wght@200&display=swap');
 
 @import url('https://fonts.googleapis.com/css2?family=Anton&family=Megrim&display=swap');
 
 @import url('https://fonts.googleapis.com/css2?family=Anton&family=Cormorant+SC&family=Megrim&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Cormorant+SC&family=Crimson+Text:ital@1&family=Megrim&display=swap');
 
 #imagen {
     background-image: url("/assest/3b62f5bafd6aca2002e6b1a32756e399bb6c4fadr1-340-270v2_uhq.jpg");
@@ -66,63 +67,75 @@ th {
     border: 3px solid rgb(16, 29, 6)
 }
 
-body{
+body {
     background-color: black;
 }
-header{
- 
+
+header {
+
     background-color: rgba(89, 156, 50, 0.842);
     height: 25px;
-   
+
 }
-*{
+
+* {
     margin: 0%;
     margin-top: 0%;
 }
-header h2{
+
+header h2 {
     text-align: center;
     font-weight: 900;
     font-size: 1em;
     color: azure;
     font-family: 'Anton', sans-serif;
 }
-main{
+
+main {
     margin-left: 15%;
     margin-right: 15%;
     padding: 60px;
 }
-.container{
-box-shadow: -2px -4px 21px 4px #00FF19;;
-padding: 15px;
 
-}
-.container img{
-
-width: 100%;
-
+.container {
+    box-shadow: -2px -4px 21px 4px #00FF19;
+    ;
+    padding: 15px;
 
 }
 
-p{
+.container img {
+
+    width: 100%;
+
+
+}
+
+p {
     color: azure;
     font-family: 'Cormorant SC', serif;
 }
 
-h1{
+h1 {
     color: rgb(43, 245, 70);
-    font-size: 1,5em;
+    font-size: 1, 5em;
+    font-family: 'Crimson Text', serif;
 }
-h3{
+
+h3 {
     color: rgba(255, 255, 255, 0.671);
     text-align: center;
     font-family: 'Megrim', cursive;
 }
-strong{
+
+strong {
     color: azure;
 }
-br{
+
+br {
     color: azure;
 }
-h2{
+
+h2 {
     color: azure;
 }
